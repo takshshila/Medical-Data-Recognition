@@ -9,6 +9,6 @@ Comparative Study of Medical Data Recognition
 - XGBoost
 
 **Dataset**
-- [Breast Cancer Detection](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data.)
+- [Breast Cancer Detection](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - [Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - [Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
