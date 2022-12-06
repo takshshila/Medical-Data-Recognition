@@ -12,3 +12,9 @@ Comparative Study of Medical Data Recognition
 - [Breast Cancer Detection](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - [Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - [Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
+
+**How to use**
+
+We are providing three the interactive python files each for one dataset. 
+- Can use this provide with google colab or through jupyter notebook local server. 
