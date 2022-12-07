@@ -18,3 +18,6 @@ Comparative Study of Medical Data Recognition
 
 We are providing three the interactive python files each for one dataset. 
 - Can use this provide with google colab or through jupyter notebook local server. 
+- Install basic libraries: numpy, pandas, sklearn, imblearn, seaborn, matplotlib. 
+- Go to the folder `Medical-Data-Recognition/notebooks`. 
+- Either run all or run each cell. 
