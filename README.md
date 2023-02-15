@@ -13,6 +13,14 @@ Comparative Study of Medical Data Recognition
 - [Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - [Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
+**Result**
+### Breast Cancer
+![Breast Cancer](/images/BreastCancer.png)
+### Heart Failure
+![Heart Failure](/images/HeartFailure.png)
+### Stroke
+![Breast Cancer](/images/StrokeResult.png)
+
 
 **How to use**
 
